@@ -86,9 +86,6 @@ env/
 env.bak/
 venv.bak/
 
-# Project-specific
-books/
-
 # System files
 Thumbs.db
 Desktop.ini
